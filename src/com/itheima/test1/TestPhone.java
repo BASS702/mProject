@@ -11,6 +11,7 @@ public class TestPhone {
         Phone ph2 = new Phone("Iphone",7000);
         System.out.println(ph2.getBrand()+ph2.getPrice());
         System.out.println("test 1");
+        System.out.println("test 2");
 
 
 
