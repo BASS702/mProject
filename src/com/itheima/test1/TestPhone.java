@@ -12,7 +12,6 @@ public class TestPhone {
         System.out.println(ph2.getBrand()+ph2.getPrice());
         System.out.println("test 1");
         System.out.println("test 2");
-        System.out.println("test 3");
 
 
 
