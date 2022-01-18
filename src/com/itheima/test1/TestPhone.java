@@ -13,7 +13,7 @@ public class TestPhone {
         System.out.println("test 1");
         System.out.println("test 2");
         System.out.println("123");
-        System.out.println("TEST 3");
+        System.out.println("23456");
 
 
 
