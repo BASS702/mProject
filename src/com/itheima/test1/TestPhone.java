@@ -14,6 +14,7 @@ public class TestPhone {
         System.out.println("test 2");
         System.out.println("123");
         System.out.println("23456");
+        System.out.println("dick");
 
 
 
